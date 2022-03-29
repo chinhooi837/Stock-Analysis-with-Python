@@ -1,7 +1,7 @@
 # Stock-Analysis-with-Python
 This repository consists of the python code used for both fundamental and technical analysis for all the US stocks.
 
-Yahoo Finance data is used foir simple stocks tickers extraction (free)
+Yahoo Finance data is used for simple stocks tickers extraction (free)
 
 Financial Modeling Prep data is used for analysis (I have a paid subscription plan in this)
 Refer to https://site.financialmodelingprep.com/ for more information
